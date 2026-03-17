@@ -53,7 +53,7 @@ To reproduce the analysis:
 1. Download the street-level crime datasets from  
 https://data.police.uk/data/
 
-2. Select the four police forces listed above.
+2. Select the four police forces listed above and select from Jan 2024 - Dec 2025.
 
 3. Extract all monthly CSV files into the folder "data_raw"
 
